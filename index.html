@@ -8,23 +8,27 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 id="title">Paleta de Cores</h1>
-    <div id="color-palette">
-        <div class="color" id="colorOne"></div>
-        <div class="color" id="colorTwo"></div>
-        <div class="color" id="colorTree"></div>
-        <div class="color" id="colorFor"></div>
-    </div>
-
-    <div id="buttons">
-        <button id="button-random-color">Cores aleatórias</button>
-        <button id="clear-board">Limpar</button>
-    </div>
-    <div>
-        <input type="number" name="TamanhoQuadro" id="board-size" placeholder="0">
-        <button id="generate-board">Novo Quadro</button>
-    </div>
-    <div id="pixel-board"></div>
+    <main class="container">
+            <h1 id="title">Paleta de Cores</h1>
+            <div id="color-palette">
+                <div class="color" id="colorOne"></div>
+               <div class="color" id="colorTwo"></div>
+                <div class="color" id="colorTree"></div>
+                <div class="color" id="colorFor"></div>
+            </div>
+        
+            <div class="setUps">
+                <button id="button-random-color">Cores aleatórias</button>
+            </div>
+            <div id="pixel-board"></div>
+            <div class="setUps">
+                <button id="clear-board">Limpar</button>
+                <input type="number" name="TamanhoQuadro" id="board-size" placeholder="0">
+                <button id="generate-board">Novo Quadro</button>
+            </div>
+       
+    </main>
+    
     <script src="./script.js"></script>
 </body>
 </html>
