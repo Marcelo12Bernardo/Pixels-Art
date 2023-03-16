@@ -1,4 +1,4 @@
-body {
+* {
     margin: 0px;
 }
 .container {
@@ -10,15 +10,16 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 .color{
     display: inline-block;
     width: 50px;
     height: 50px;
     border: 1px solid black;
     border-radius: 50%;
-    margin-bottom: 20px;
-    opacity: 0.7;
+    opacity: 0.8;
     transition: opacity 0.2s;
+    margin: 0px;
 }
 
 .color:hover {
@@ -32,25 +33,26 @@ body {
 }
 
 #pixel-board{
-    border: solid black 1px;
+    border: solid black 1.5px;
     width: 210px;
     height: auto;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#color-palette{
-    width: 260px;
-    height: 50;
-    margin-left: auto;
-    margin-right: auto;
-    
+    display: flex;
+    flex-wrap: wrap;
 }
 .pixel{
-    border: solid black 1px;
-    display: inline-block;
+    border: solid black 0.1px;
     background-color: white;
     width: 40px;
     height: 40px;
+    margin: 0;
 }
 
+.setUps {
+    margin: 10px;
+}
+#title {
+    font-family: 'Wonder Boy In Monster World', sans-serif;                               
+    font-size: 38px;
+    color: black;
+    margin: 15px;
+}
