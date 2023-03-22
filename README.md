@@ -5,7 +5,7 @@
 - Gere um quadro com a quantidade de pixeis que desejar
 - Seus desenhos assim como as cores geradas na paleta ficarão salvas para que você possa continuar criando mesmo que tenha que sair e voltar a página
 
-## Projeto sendo executado 💡
+## Projeto sendo executado 
 
 <img src='imgs/foto.png'>
 
@@ -17,13 +17,13 @@
 
 - Manipulação do DOM
 
-## Tecnologias utilizadas 💡
+## Tecnologias utilizadas 
 - `Javascript`
 - `CSS`
 - `HTML`
 
 # Como acessar a aplicação
-Link da aplicação <a href='https://nicolaszamboni.github.io/Project-Pixel-Art/'>Pixel Art</a>
+Link da aplicação <a href='https://Marcelo12Bernardo.github.io/Projeto-pixel-art/'>Pixel Art</a>
 
 ---
 
