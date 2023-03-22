@@ -5,9 +5,9 @@
 - Gere um quadro com a quantidade de pixeis que desejar
 - Seus desenhos assim como as cores geradas na paleta ficarão salvas para que você possa continuar criando mesmo que tenha que sair e voltar a página
 
-## Projeto sendo executado 
+## Projeto sendo executado
 
-<img src='imgs/foto.png'>
+![](./imgs/projetoFuncional.gif)
 
 ## Habilidades Trabalhadas
 
@@ -17,10 +17,11 @@
 
 - Manipulação do DOM
 
-## Tecnologias utilizadas 
-- `Javascript`
-- `CSS`
-- `HTML`
+## Tecnologias utilizadas
+
+- ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=purple&labelColor=0D1117)&nbsp;
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 # Como acessar a aplicação
 Link da aplicação <a href='https://Marcelo12Bernardo.github.io/Projeto-pixel-art/'>Pixel Art</a>
@@ -29,6 +30,7 @@ Link da aplicação <a href='https://Marcelo12Bernardo.github.io/Projeto-pixel-a
 
 # :construction: Projeto em construção  :construction:
 ### Futuras atualizações:
+
 - Permitir que a paleta tenha mais opção de cores
 - Permitir que o usuário possa escolher o número de linhas e colunas
 - Botao de reset para voltar ao estado inicial

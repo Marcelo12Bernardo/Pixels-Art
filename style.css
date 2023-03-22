@@ -1,14 +1,19 @@
 * {
     margin: 0px;
 }
+
 .container {
     width: 100vw;
     height: 100vh;
-    background: #6C7A89;
+    /* background: hsl(0, 95%, 99%); */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    /* background:  url("./imgs/bckMain.jpg"); */
+    background-image: url("/imgs/papel.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;  /* 80 pixels de largura e 60 pixels de altura */
 }
 
 .color{
@@ -49,6 +54,20 @@
 
 .setUps {
     margin: 10px;
+}
+.btn{
+    font-size: 12px;
+    width: 160px;
+    height: 35px;
+    border-radius: 8px;
+    font-family: 'Wonder Boy In Monster World', sans-serif;    
+}
+#board-size{
+    font-size: 12px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    appearance: none;
 }
 #title {
     font-family: 'Wonder Boy In Monster World', sans-serif;                               
