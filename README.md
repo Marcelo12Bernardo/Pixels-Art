@@ -1,13 +1,15 @@
-# Seja bem vindo ao projeto Pixel Art
+# :art: Projeto Pixel Art :art:
 
-- O Pixel-Art consiste em uma pagina web, onde você poderá utilizar uma paleta de cores funcional que poderá ser utilizada para criar diversos desenhos em forma de pixel. Além disso foi adicionado uma função onde você pode gerar novas cores aleatórias, assim sua arte sempre ficará colorida.
-- Para a realização do projeto foi utilizado `javascript`, `css` e `html`.
+- Utilize as cores presentes na paleta para criar seus próprios desenhos no pixel-board.
+- Utilize o botão para gerar cores aleatorias para sua paleta
+- Gere um quadro com a quantidade de pixeis que desejar
+- Seus desenhos assim como as cores geradas na paleta ficarão salvas para que você possa continuar criando mesmo que tenha que sair e voltar a página
 
 ## Projeto sendo executado 💡
 
 <img src='imgs/foto.png'>
 
-## Habilidades Utilizadas
+## Habilidades Trabalhadas
 
 - Manipulação do JavaScript
 
@@ -15,10 +17,20 @@
 
 - Manipulação do DOM
 
----
+## Tecnologias utilizadas 💡
+- `Javascript`
+- `CSS`
+- `HTML`
 
 # Como acessar a aplicação
-
 Link da aplicação <a href='https://nicolaszamboni.github.io/Project-Pixel-Art/'>Pixel Art</a>
 
-# :construction: Projeto em construção ! :construction
+---
+
+# :construction: Projeto em construção  :construction:
+### Futuras atualizações:
+- Permitir que a paleta tenha mais opção de cores
+- Permitir que o usuário possa escolher o número de linhas e colunas
+- Botao de reset para voltar ao estado inicial
+
+Fique a vontade caso queira clonar o repositório e sugerir alterações, toda ideia vista da perspectiva correto é uma ideia genial 💡
