@@ -1,10 +1,38 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# :art: Projeto Pixel Art :art:
+
+- Utilize as cores presentes na paleta para criar seus próprios desenhos no pixel-board.
+- Utilize o botão para gerar cores aleatorias para sua paleta
+- Gere um quadro com a quantidade de pixeis que desejar
+- Seus desenhos assim como as cores geradas na paleta ficarão salvas para que você possa continuar criando mesmo que tenha que sair e voltar a página
+
+## Projeto sendo executado
+
+![](./imgs/projetoFuncional.gif)
+
+## Habilidades Trabalhadas
+
+- Manipulação do JavaScript
+
+- Manipulação do CSS
+
+- Manipulação do DOM
+
+## Tecnologias utilizadas
+
+- ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=purple&labelColor=0D1117)&nbsp;
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+# Como acessar a aplicação
+Link da aplicação <a href='https://Marcelo12Bernardo.github.io/Projeto-pixel-art/'>Pixel Art</a>
+
+---
+
+# :construction: Projeto em construção  :construction:
+### Futuras atualizações:
+
+- Permitir que a paleta tenha mais opção de cores
+- Permitir que o usuário possa escolher o número de linhas e colunas
+- Botao de reset para voltar ao estado inicial
+
+Fique a vontade caso queira clonar o repositório e sugerir alterações, toda ideia vista da perspectiva correto é uma ideia genial 💡
