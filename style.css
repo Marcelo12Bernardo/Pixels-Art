@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     /* background:  url("./imgs/bckMain.jpg"); */
-    background-image: url("/imgs/papel.jpg");
+    background-image: url("./imgs/papel.jpg");
     background-repeat: no-repeat;
     background-size: 100vw 100vh;  /* 80 pixels de largura e 60 pixels de altura */
 }
