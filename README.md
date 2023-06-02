@@ -7,7 +7,7 @@
 
 ## Projeto sendo executado
 
-![](./imgs/projetoFuncional.gif)
+![](./css/imgs/projetoFuncional.gif)
 
 ## Habilidades Trabalhadas
 
